@@ -1,4 +1,1 @@
-kernel_msm
-==========
-
-KK Kernel for Nexus 4
+![alt tag](http://imageshack.com/a/img833/7065/93n4.png)
