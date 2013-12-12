@@ -47,7 +47,7 @@ KERNEL_DIR=`pwd`
 OUTPUT_DIR=${HOME}/android/AK-anykernel/zip
 CWM_DIR=${HOME}/android/AK-anykernel/cwm
 ZIMAGE_DIR=${HOME}/android/AK-xAosp/arch/arm/boot
-CWM_MOVE=/home/anarkia1976/Desktop/AK-Kernel
+CWM_MOVE=${HOME}/android/AK-releases
 ZIMAGE_ANYKERNEL=${HOME}/android/AK-anykernel/cwm/kernel
 ANYKERNEL_DIR=${HOME}/android/AK-anykernel
 
